@@ -6,7 +6,7 @@ const expressValidator = require('express-validator');
 const mongoose = require('mongoose');
 const Signature = require('./models/signature.js')
 const app = express();
-const url = 'mongodb://jdemello:admin1234@ds253871.mlab.com:53871/erp-hackathon';
+const url = 'mongodb://jordan:admin1234@ds253871.mlab.com:53871/erp-hackathon';
 
 //====ROOT DIRECTORY===//
 app.get('/', function(req, res) {
