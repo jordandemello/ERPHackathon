@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jordandemello/ERPHackathon/issues"
   },
-  "homepage": "https://github.com/jordandemello/ERPHackathon#readme"
+  "homepage": "https://github.com/jordandemello/ERPHackathon#readme",
+  "scripts": {
+    "start": "node your-script.js"
+}
 }
