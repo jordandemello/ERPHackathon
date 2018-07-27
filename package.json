@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jordandemello/ERPHackathon#readme",
   "scripts": {
-    "start": "node your-script.js"
+    "start": "app.js"
 }
 }
