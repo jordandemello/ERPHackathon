@@ -42,4 +42,4 @@ mongoose.connect(url, function (err, db) {
 //==========================//
 
 app.listen(27017);
-console.log('starting applicaiton.  Good job!');
+console.log('starting application.  Good job!');
